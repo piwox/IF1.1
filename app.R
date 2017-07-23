@@ -1,11 +1,11 @@
 #---------General setup---------------------------------------
 
-require('MASS')
-require('ggplot2')
-require('ggthemes')
-require('reshape2')
-require('shiny')
-require('plotly')
+library('MASS')
+library('ggplot2')
+library('ggthemes')
+library('reshape2')
+library('shiny')
+library('plotly')
 
 #---------Load external global variables--------------
 
